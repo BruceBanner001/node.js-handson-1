@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "node.js-handson-1",
+  "version": "1.0.0",
+  "description": "Node.js Handson 1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Subramanian Thayuman",
+  "license": "ISC"
+}
